@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 // Декоратор используется для присвоения метаданных для класса AppComponent
 @Component({
   selector: 'my-app',                       // Селектор, который определяет какой элемент DOM дерева будет представлять компонент.
-  template: '<h1>My First kjnkjkjlkjlkjjknnjkkjnkjnk App</h1>' // HTML разметка определяющая представление текущего компонента
+  template: '<h1>My First kjnkjkjlkjlnn j kjjknnjkkjnkjnk App</h1>' // HTML разметка определяющая представление текущего компонента
 })
 export class AppComponent { } // Класс определяющий поведение компонента
