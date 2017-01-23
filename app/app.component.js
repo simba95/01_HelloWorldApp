@@ -19,22 +19,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: '<h1>jjknnjkkjnkjnk App</h1>' // HTML разметка определяющая представление текущего компонента
-        }), 
-        __metadata('design:paramtypes', [])
-    ], AppComponent);
-    return AppComponent;
-}());
-exports.AppComponent = AppComponent; // Класс определяющий поведение компонента
-// Применение декоратора Component для класса AppComponent
-// Декоратор используется для присвоения метаданных для класса AppComponent
-var AppComponent = (function () {
-    function AppComponent() {
-    }
-    AppComponent = __decorate([
-        core_1.Component({
-            selector: 'my-app',
-            template: '<h1>jjknnjkkjnkjnk App</h1>' // HTML разметка определяющая представление текущего компонента
+            template: '<h1>My First Angular App</h1>' // HTML разметка определяющая представление текущего компонента
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
