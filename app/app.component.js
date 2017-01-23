@@ -19,7 +19,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: '<h1>My First kjnkjkjlkjlnn j kjjknnjkkjnkjnk App</h1>' // HTML разметка определяющая представление текущего компонента
+            template: '<h1>jjknnjkkjnkjnk App</h1>' // HTML разметка определяющая представление текущего компонента
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
